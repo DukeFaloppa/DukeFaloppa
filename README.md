@@ -23,4 +23,4 @@ Let's work together to overcome any hurdles and achieve success :muscle:
 # code languages
 
 + python 
- + R
++ R
