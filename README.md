@@ -1,7 +1,7 @@
 # who I am 👨‍🔬
 
-Greetings, my name is Philippe Brunier, aka Duke Faloppa.  
-I like to solve problems, surfing through complex situations 🏄‍♂️ 
+Greetings, my name is Philippe Brunier, aka Duke Faloppa. 
+I am a engineer with a big love for technology. I like to solve problems, surfing through complex situations 🏄‍♂️ 
 With a passion for problem-solving and innovation, I consider myself to be a versatile individual with a strong background in physics, a love for mathematics, and a deep addiction to coding (especially Pytnon :heart:). I thrive in dynamic and challenging environments, always eager to take on new projects and push the boundaries of what is possible 🤟. With strategic thinking, decisive actions, and a bit of my extroverted nature, I am ready to tackle any challenge that comes my way. 
 
 Whether it's a personal dilemma or a professional obstacle, I am here to provide guidance and offer solutions. 
@@ -11,17 +11,19 @@ Let's work together to overcome any hurdles and achieve success :muscle:
 
 + python 
 + R
-
++ C (for my small arduino projects)
  
 # general info
 
 - 📫 How to reach me: you are in the right place
 - :factory: COgne Acciai Speciali S.p.A. - I&D engineering
-- 👀 I’m interested in:
+<!---    - 👀 I’m interested in:
     -  data science projects
     -  engineering applications
     -  FEM/CFD calculations
-    -  rapsberry pi projects
+    -  rapsberry pi projects 
+--->
+
 
 
 <!---
