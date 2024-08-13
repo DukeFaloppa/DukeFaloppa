@@ -16,7 +16,7 @@ Let's work together to overcome any hurdles and achieve success :muscle:
 # general info
 
 - 📫 How to reach me: you are in the right place
-- :factory: COgne Acciai Speciali S.p.A. - I&D engineering
+- :factory: COgne Acciai Speciali S.p.A. - R&D
 <!---    - 👀 I’m interested in:
     -  data science projects
     -  engineering applications
